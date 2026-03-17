@@ -14,6 +14,7 @@ I am a software developer passionate about building clean, maintainable, and use
 <!-- * 🔭 Currently working on ** ** -->
 * 🌱 Currently learning **Next.Js, Prisma**
 * 📫 How to reach me: **[julekmlynarczyk@gmail.com](mailto:julekmlynarczyk@gmail.com)**
+* 🦾 Portfolio: **[Link](https://mj211.vercel.app)**
 * ⚡ Fun fact: **Outside of coding, I'm deeply interested in Polish firefighting and rescue services.**
 
 ---
