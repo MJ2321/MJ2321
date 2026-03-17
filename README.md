@@ -40,9 +40,6 @@ I am a software developer passionate about building clean, maintainable, and use
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJ2321&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=7D8590" alt="Top Languages" />
 </p>
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MJ2321&bg_color=00000000&color=7D8590&line=58A6FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
-</p>
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MJ2321&hide_border=true&background=00000000&title_color=58A6FF&text_color=7D8590&sideNums=7D8590&sideLabels=7D8590&ring=58A6FF&fire=58A6FF&currStreakLabel=7D8590&currStreakNum=7D8590" alt="GitHub Streak" />
 </p>
 
